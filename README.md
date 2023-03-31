@@ -1,2 +1,2 @@
 # voiceassistant
-this is simple voice assistant in pytho
+this is simple voice assistant in python
